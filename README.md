@@ -1,4 +1,4 @@
-# Django Ollama Chat App
+# Django Sessions Ollama Chat App
 
 This Django project showcases the power of building local AI-powered chat applications using the Ollama library and Meta's Llama 3 model 
 
@@ -14,9 +14,7 @@ This Django project showcases the power of building local AI-powered chat applic
 ## Getting Started
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/scoutapp/ollama-django
-   cd your-repo-name
+   `
 
 2. **Start Ollama: (If you haven't already)**
    ```bash
@@ -52,9 +50,6 @@ Reduced Latency: Optimization techniques to minimize response delays.
 Additional Models: Integration of other Ollama-supported models.
 Multimodal AI: Exploration of combining text with images and audio.
 
-**Contributing**
-
-Contributions are welcome! Feel free to open issues, submit pull requests, or share your feedback to help improve this project.
 
 **Acknowledgements**
 
